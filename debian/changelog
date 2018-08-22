@@ -1,8 +1,0 @@
-ros-kinetic-kinect2-description (0.0.1-0xenial) xenial; urgency=high
-
-  * former kinect2_description now as part of a bigger one
-  * Contributors: mailto:mfernandezcarmona@lincoln.ac.uk
-
- -- Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>  Tue, 17 Jul 2018 23:00:00 -0000
-
-
