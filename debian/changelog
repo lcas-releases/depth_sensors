@@ -1,0 +1,20 @@
+ros-kinetic-depth-sensors (0.0.2-0xenial) xenial; urgency=high
+
+  * Update package.xml
+  * Contributors: Manuel Fernandez-Carmona
+
+ -- Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>  Wed, 22 Aug 2018 00:00:00 -0000
+
+ros-kinetic-depth-sensors (0.0.1-0xenial) xenial; urgency=high
+
+  * Maintainer updated
+  * simple camera model for pose-to-pixel-space projection debugging
+  * moved Kinect V2 control into its own package
+  * moved Kinect V2 description into its own package
+  * moved Senz3d description into its own package
+  * metapackage for depth sensors
+  * Contributors: lude-ma, mailto:mfernandezcarmona@lincoln.ac.uk
+
+ -- Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>  Wed, 18 Jul 2018 00:00:00 -0000
+
+
