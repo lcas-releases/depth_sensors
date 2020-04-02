@@ -1,0 +1,13 @@
+Source: ros-melodic-kinect-description
+Section: misc
+Priority: optional
+Maintainer: Marvin Ludersdorfer <ludersdorfer@fortiss.org>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-kinect-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Description of Kinect V2 sensor on a stand.
+ This package contains the URDF and meshes describing the Kinect V2 sensor and a stand to place it on.
