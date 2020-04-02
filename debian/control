@@ -1,0 +1,13 @@
+Source: ros-melodic-simple-description
+Section: misc
+Priority: optional
+Maintainer: Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-simple-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Description of a very simple color camera for debugging purposes.
+ This package contains the URDF describing a simple RGB camera.
