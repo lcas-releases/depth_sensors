@@ -1,0 +1,38 @@
+ros-melodic-depth-sensors (0.1.0-1bionic) bionic; urgency=high
+
+
+
+ -- Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>  Wed, 01 Apr 2020 23:00:00 -0000
+
+ros-melodic-depth-sensors (0.0.4-1bionic) bionic; urgency=high
+
+
+
+ -- Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>  Fri, 21 Sep 2018 23:00:00 -0000
+
+ros-melodic-depth-sensors (0.0.3-1bionic) bionic; urgency=high
+
+
+
+ -- Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>  Tue, 21 Aug 2018 23:00:00 -0000
+
+ros-melodic-depth-sensors (0.0.2-1bionic) bionic; urgency=high
+
+  * Update package.xml
+  * Contributors: Manuel Fernandez-Carmona
+
+ -- Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>  Tue, 21 Aug 2018 23:00:00 -0000
+
+ros-melodic-depth-sensors (0.0.1-1bionic) bionic; urgency=high
+
+  * Maintainer updated
+  * simple camera model for pose-to-pixel-space projection debugging
+  * moved Kinect V2 control into its own package
+  * moved Kinect V2 description into its own package
+  * moved Senz3d description into its own package
+  * metapackage for depth sensors
+  * Contributors: lude-ma, mailto:mfernandezcarmona@lincoln.ac.uk
+
+ -- Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>  Tue, 17 Jul 2018 23:00:00 -0000
+
+

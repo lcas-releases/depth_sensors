@@ -1,0 +1,12 @@
+Source: ros-melodic-depth-sensors
+Section: misc
+Priority: optional
+Maintainer: Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-depth-sensors
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-kinect-control, ros-melodic-kinect-description, ros-melodic-kinect2-description, ros-melodic-senz3d-description, ros-melodic-simple-description
+Description: URDF and meshes describing the Kinect V2 and Senz3d depth sensors.
