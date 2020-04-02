@@ -1,0 +1,12 @@
+Source: ros-melodic-kinect-control
+Section: misc
+Priority: optional
+Maintainer: Manuel Fernandez <mfernandezcarmona@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-kinect-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-controller-manager
+Description: Publishes the state information for the Kinect stand.
