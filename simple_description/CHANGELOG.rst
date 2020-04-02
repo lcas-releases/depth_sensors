@@ -2,6 +2,11 @@
 Changelog for package simple_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.0 (2020-04-02)
+------------------
+* Small fix for xacro
+* Contributors: Riccardo
+
 0.0.4 (2018-09-22)
 ------------------
 
