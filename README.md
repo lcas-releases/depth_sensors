@@ -1,3 +1,33 @@
+## depth_sensors (melodic) - 0.1.0-1
+
+The packages in the `depth_sensors` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic depth_sensors` on `Thu, 02 Apr 2020 18:54:47 -0000`
+
+These packages were released:
+- `asus_description`
+- `depth_sensors`
+- `kinect2_description`
+- `kinect_control`
+- `kinect_description`
+- `senz3d_description`
+- `simple_description`
+
+Version of package(s) in repository `depth_sensors`:
+
+- upstream repository: https://github.com/LCAS/depth_sensors.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## depth_sensors (kinetic) - 0.0.4-0
 
 The packages in the `depth_sensors` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic depth_sensors` on `Sat, 22 Sep 2018 00:48:03 -0000`
